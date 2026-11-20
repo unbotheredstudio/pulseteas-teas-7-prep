@@ -1,0 +1,6 @@
+{
+  "name": "PulseTEAS · ATI TEAS 7 Prep & Mastery",
+  "description": "Comprehensive ATI TEAS 7 prep platform featuring practice exams, flashcards, digital badges, social sharing, leaderboard, exclusive study guides, and sync.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
